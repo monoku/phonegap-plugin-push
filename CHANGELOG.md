@@ -1,6 +1,30 @@
 # Change Log
 
-## [v1.10.1](https://github.com/phonegap/phonegap-plugin-push/tree/v1.10.1) (2016-07-09)
+## [v1.10.3](https://github.com/phonegap/phonegap-plugin-push/tree/v1.10.3) (2017-20-04)
+[Full Changelog](https://github.com/phonegap/phonegap-plugin-push/compare/v1.10.2...v1.10.3)
+
+- 1.10.3 [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/1e072b351056d453fd1c1d40d5fcac310f3e107c)
+- :bookmark: Bumping plugin version to 1.10.3 [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/29df66eae54e773925e25bd92299957e4d654723)
+- :bug: Handle null in getCircleBitmap (#1705) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/3acdfa338d7a8b56ec4dc73c50aa9917ecb3be7c)
+- :shirt: Issue #1702: The logging tag can be at most 23 characters, was 40 (PushPlugin_BackgroundActionButtonHandler) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/2045873acda2e81d54b2da87cd2d10f056bd90f9)
+- Shortened log tag PushPlugin_BackgroundActionButtonHandler to bring u… (#1703) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/dd707122b7aa78649fa6f5f73ba9b05436799926)
+- :memo: Docs for interoperability with Firebase (#1693) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/cebb6403143047192462f30c22b9510a8c6dbe21)
+- fix headline (#1685) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/e2e7993544eed544eb7286868b60e2e3efb6275d)
+- Fix changelog date [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/3140b2b00388785f8056632376b50a1d1ef67b96)
+- :arrow_up: update pluginpub to 0.0.8 [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/cfab7d91556a38ee81550fe47e13f2662ae810db)
+- Updating CHANGELOG [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/027ea2c17e4b96b848ab29046efea243e6e2da27)
+
+## [v1.10.2](https://github.com/phonegap/phonegap-plugin-push/tree/v1.10.2) (2017-04-12)
+[Full Changelog](https://github.com/phonegap/phonegap-plugin-push/compare/v1.10.1...v1.10.2)
+
+- 1.10.2 [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/b5a7d4ec6e64abaed65de00be3e9bac9ab25791e)
+- :bookmark: Bumping plugin version to 1.10.2 [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/5b700ad9927c401081a5de49f2a6a27ba0dfaa9a)
+- :arrow_up: update pluginpub to 0.0.7 [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/38564ce55e53e018c91f4063d680eedd2631b825)
+- Fix the dates on the CHANGELOG (the last 2 version) (#1676) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/c0f26192c906bfc1a60390333c96d5dc07433978)
+- Vapid Support (#1675) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/384b60bade628035b21d23f07e284eb6e1557a10)
+- Updating CHANGELOG [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/97d618fb53084cfae78f397def48df791131358f)
+
+## [v1.10.1](https://github.com/phonegap/phonegap-plugin-push/tree/v1.10.1) (2017-04-07)
 [Full Changelog](https://github.com/phonegap/phonegap-plugin-push/compare/v1.10.0...v1.10.1)
 
 - 1.10.1 [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/6211e8c3df8881a90d19b111a0e63f890d435df6)
@@ -16,7 +40,7 @@
 - :arrow_up: Issue #1560: setApplicationIconBadgeNumber not working on Android but firing success function [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/4af3472263a5125cab6f08bbb59b83bf957144ec)
 - Updating CHANGELOG [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/ed25a3e3ad9fb6f2af63fd07957944f974eafaa1)
 
-## [v1.10.0](https://github.com/phonegap/phonegap-plugin-push/tree/v1.10.0) (2016-07-09)
+## [v1.10.0](https://github.com/phonegap/phonegap-plugin-push/tree/v1.10.0) (2017-03-10)
 [Full Changelog](https://github.com/phonegap/phonegap-plugin-push/compare/v1.9.4...v1.10.0)
 
 - 1.10.0 [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/6b9b862da8566c7717dfc79dd6b32d8a7e6774d8)
