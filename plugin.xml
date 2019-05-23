@@ -6,11 +6,11 @@
   <js-module src="www/push.js" name="PushNotification">
     <clobbers target="PushNotification"/>
   </js-module>
-  <engines>
+  <!-- <engines>
     <engine name="cordova" version=">=7.1.0"/>
     <engine name="cordova-android" version=">=7.1.0"/>
     <engine name="cordova-ios" version=">=4.5.0"/>
-  </engines>
+  </engines> -->
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="PushNotification">
